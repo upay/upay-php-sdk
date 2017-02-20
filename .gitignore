@@ -1,0 +1,19 @@
+
+/phpunit.xml
+
+# IDE
+/.idea
+/.project
+/.settings
+/.buildpath
+/atlassian-ide-plugin.xml
+*.bak
+
+# Composer
+/vendor
+/composer.lock
+/composer.phar
+
+# PHP CS
+/.php_cs
+/php-cs-fixer.phar
